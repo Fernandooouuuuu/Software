@@ -1,0 +1,10 @@
+Para este proyecto decidimos usar la metodología HIBRIDA combinando elementos de metodología AGIL y CASCADA.
+
+Cascada: Para etapas iniciales de Análisis y Diseño, donde se requiere una planificación mas detallada y una documentación completa de los requerimientos
+
+Ágil (SCRUM): Para las etapa de Desarrollo y Prueba, donde se puede trabajar de manera iterativa e incremental, con entregas parciales del software y retroalimentación continua del cliente 
+
+Justificación:
+El enfoque en cascada en las etapas iniciales permite establecer una base sólida para el proyecto, definiendo claramente el alcance, los requisitos y la arquitectura del sistema. Esto es importante para un proyecto que involucra la integración de diferentes tecnologías (IoT, drones, app móvil) y el cumplimiento de normativas.
+
+El enfoque ágil en las etapas de desarrollo y pruebas permite una mayor flexibilidad y adaptabilidad a los cambios, así como una entrega más rápida de funcionalidades al cliente. Esto es beneficioso para un proyecto donde los requisitos pueden evolucionar a medida que se avanza en el desarrollo y se obtiene retroalimentación de los usuarios.
