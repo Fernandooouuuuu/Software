@@ -1,5 +1,0 @@
-Para este proyecto decidimos usar la metodología HIBRIDA combinando elementos de metodología AGIL y CASCADA.
-
-Cascada: Para etapas iniciales de Análisis y Diseño, donde se requiere una planificación mas detallada y una documentación completa de los requerimientos
-
-Ágil (SCRUM): Para las etapa de Desarrollo y Prueba, donde se puede trabajar de manera iterativa e incremental, con entregas parciales del software y retroalimentación continua del cliente 
