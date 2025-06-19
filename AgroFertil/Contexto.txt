@@ -1,0 +1,19 @@
+La empresa AgroFértil S.A., dedicada a la producción de berries en Chile, enfrenta serios desafíos operacionales que afectan directamente la rentabilidad de sus cultivos. Las condiciones actuales han generado pérdidas anuales estimadas entre un 20% y un 30% de la producción total, como resultado de un manejo ineficiente del riego, detección tardía de plagas y el uso de registros manuales poco precisos.
+
+En la actualidad, el riego se realiza de forma no optimizada, generando exceso de agua en zonas ya húmedas y déficit en áreas secas, lo que incrementa los costos operacionales en más de un 35%. Además, la detección de plagas se lleva a cabo de manera visual y con poca anticipación, lo que permite que estas afecten más del 15% del cultivo antes de ser controladas. Sumado a esto, el registro manual en papel presenta errores cercanos al 12% en información crítica como fechas de aplicación de pesticidas, lo que complica el cumplimiento de las normativas internacionales de exportación, especialmente en temas de trazabilidad agroquímica.
+
+Otro problema crítico es la ineficiencia operativa del personal técnico, ya que cerca del 40% de su tiempo se destina a la recolección de datos en terreno, en lugar de al análisis o toma de decisiones.
+
+Ante esta realidad, surge la necesidad de desarrollar un Sistema de Monitoreo Inteligente para Cultivos, que permita:
+
+Automatizar la recolección de datos climáticos y de suelo mediante sensores IoT.
+
+Detectar plagas tempranamente usando imágenes captadas por drones.
+
+Generar informes que respalden auditorías de trazabilidad.
+
+Implementar una aplicación móvil que funcione en zonas rurales sin conexión a internet.
+
+Escalar la solución a más de 100 hectáreas y garantizar la protección de los datos tratados.
+
+Este sistema busca reducir pérdidas, optimizar el uso de recursos hídricos y agroquímicos, y asegurar el cumplimiento de estándares de calidad para mantener y potenciar la capacidad exportadora de AgroFértil S.A.
