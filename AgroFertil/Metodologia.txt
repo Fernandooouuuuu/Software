@@ -1,10 +1,37 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+METODOLOGIA
+
 Para este proyecto decidimos usar la metodología HIBRIDA combinando elementos de metodología AGIL y CASCADA.
 
-Cascada: Para etapas iniciales de Análisis y Diseño, donde se requiere una planificación mas detallada y una documentación completa de los requerimientos
+Cascada: Para etapas iniciales de Análisis y Diseño, donde se requiere una planificación mas detallada y una documentación completa de los requerimientos.
 
-Ágil (SCRUM): Para las etapa de Desarrollo y Prueba, donde se puede trabajar de manera iterativa e incremental, con entregas parciales del software y retroalimentación continua del cliente 
+Ágil (SCRUM): Para las etapa de Desarrollo y Prueba, donde se puede trabajar de manera iterativa e incremental, con entregas parciales del software y retroalimentación continua del cliente.
 
 Justificación:
 El enfoque en cascada en las etapas iniciales permite establecer una base sólida para el proyecto, definiendo claramente el alcance, los requisitos y la arquitectura del sistema. Esto es importante para un proyecto que involucra la integración de diferentes tecnologías (IoT, drones, app móvil) y el cumplimiento de normativas.
 
 El enfoque ágil en las etapas de desarrollo y pruebas permite una mayor flexibilidad y adaptabilidad a los cambios, así como una entrega más rápida de funcionalidades al cliente. Esto es beneficioso para un proyecto donde los requisitos pueden evolucionar a medida que se avanza en el desarrollo y se obtiene retroalimentación de los usuarios.
+-------------------------------------------------------------------------------------------------------------------------
+ROLES DE EQUIPO
+
+Para poder construir un sistema eficiente para AgroFértil S.A., se necesitan de roles específicos y necesarios para que todo funcione correctamente.
+
+Product Owner (PO) 
+Él es quien representa lo que son las necesidades de AgroFértil dentro del equipo. Se encarga de definir las funcionalidades clave como las alertas de plagas o la monitorización del clima. También prioriza el desarrollo en base al valor que va a aportar al negocio agrícola y se comunica continuamente con el cliente para reuniones.
+
+Analista QA
+Es el que garantiza la calidad del software en AgroFértil para probar las funcionalidades en condiciones reales dentro del campo, como la baja conectividad y datos desordenados de los sensores. Se asegura de que la trazabilidad y los informes sean precisos para cumplir con las normativas de exportación.
+
+Desarrollador Backend
+Se ocupa del desarrollo lógico: base de datos, lógica del sistema y APIs. En AgroFértil, procesa datos de sensores IoT, genera alertas automáticas, almacena información de riego y pesticidas, y crea servicios para la aplicación móvil y el dashboard.
+Desarrollador Mobile
+Responsable del desarrollo de aplicaciones móviles. Deberá crear una aplicación que funcione sin conexión a internet, que permita recibir alertas críticas, registrar eventos en el campo y mostrar mapas de riesgo a los técnicos agrícolas.
+
+
+Arquitecto de Soluciones Digitales
+Define cómo se comunican los sensores, la aplicación, la base de datos y el dashboard. Selecciona tecnologías cloud y se asegura de que todo sea escalable y funcione con eficiencia en ambientes rurales.
+
+Ingeniero DevOps (Development Operations)
+Automatiza procesos de integración y despliegue (CI/CD) y mantiene la operación continua del sistema. En AgroFértil, asegura que el sistema esté disponible en zonas remotas, realiza monitoreo constante y aplica medidas de seguridad para proteger los datos agrícolas y de proveedores.
+Analista Business Intelligence
+Se encarga de convertir los datos recolectados por sensores, drones y registros del sistema en información útil para la toma de decisiones agrícolas, Analiza posibles patrones, crea reportes visuales y detecta tendencias que pueden ayudar a optimizar el riego, controlar plagas, mejorar el rendimiento del cultivo y cumplir con las normativas de exportación. Básicamente el trabajo es transformar datos crudos en conocimiento estratégico para la empresa
