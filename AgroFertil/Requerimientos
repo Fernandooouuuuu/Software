@@ -1,0 +1,44 @@
+Requesitos Funcionales
+
+RF-01. Registro automático: Registrar automáticamente, los datos de humedad, luz y temperatura cada 15 minutos.
+
+ RF-02. Detección temprana: Detectar posibles plagas mediante imágenes captadas por drones, para combatirlas a tiempo.
+
+ RF-03. Notificaciones: Envío automatizado de notificaciones.
+
+ RF-04. Mapa de riesgo: Visualización de un mapa interactivo que utiliza códigos de color (por ejemplo, rojo) para indicar distintos niveles de riesgo.
+
+ RF-05. Exportación de datos: Exportar los datos en distintos formatos (Excel y PDF) para su presentación.
+
+ RF-06. Gestión de usuarios: Crear, actualizar y eliminar usuarios del sistema.
+
+ RF-07. Generación de informes: Crear informes técnicos y detallados para auditorías.
+
+ RF-08. Consultas: Realizar consultas por rango de fechas o por sector.
+
+ RF-09. Registro de insumos: Registrar los insumos o productos aplicados a las plantas.
+
+ RF-10. Sincronización automática: Sincroniza automáticamente los datos obtenidos de los sensores en campo.
+
+
+Requisitos no Funcionales
+
+RNF-01. Protección de datos: Garantiza la seguridad y privacidad de los datos personales conforme a las normativas.
+
+RNF-02. Escalabilidad: Diseñado para funcionar eficientemente en superficies mayores a 100 hectáreas.
+
+RNF-03. Usabilidad: Interfaz accesible y comprensible para distintos perfiles de usuario.
+
+RNF-04. Soporte técnico: Incluye mantenimiento regular y asistencia técnica.
+
+RNF-05. Compatibilidad: Funciona en dispositivos Android e iOS.
+
+RNF-06. Soporte offline: Permite operar sin conexión en zonas rurales.
+
+RNF-07. Tolerancia a fallos: El sistema continúa funcionando ante errores o fallos.
+
+RNF-08. Respaldo automático: Realiza copias de seguridad automáticas de los datos.
+
+RNF-09. Multiusuario: Permite el uso simultáneo por varios usuarios.
+
+RNF-10. Historial de acciones: Registra todas las modificaciones realizadas por los usuarios en el sistema.
